@@ -1,0 +1,30 @@
+# Laravel
+app/vendor/
+app/node_modules/
+
+# Environment
+app/.env
+
+# Logs
+app/storage/logs/*
+!app/storage/logs/.gitignore
+
+# Cache
+app/bootstrap/cache/*.php
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker volumes
+mysql/data/
+
+# Composer
+composer.lock
+
+# npm
+package-lock.json
