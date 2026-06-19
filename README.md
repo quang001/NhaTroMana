@@ -2,8 +2,6 @@
 
 Ứng dụng quản lý bất động sản / nhà trọ được xây dựng bằng **PHP Laravel**, đóng gói bằng **Docker Compose** với 4 containers riêng biệt.
 
-Ứng dụng quản lý bất động sản / nhà trọ được xây dựng bằng **PHP Laravel**, đóng gói bằng **Docker Compose** với 4 containers riêng biệt.
-
 ---
 
 ## 🏗️ Kiến trúc Docker (4 Containers)
