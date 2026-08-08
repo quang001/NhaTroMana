@@ -43,25 +43,6 @@
 └────────────────────────────────────────────┘
 
 ──────────┐   ┌──────────┐               │
-│  │  nginx   │──▶│   php    │              │
-│  │ :80      │   │ (fpm)    │               │
-│  └──────────┘   └────┬─────┘               │
-│                      │                     │
-│                 ┌────▼─────┐               │
-│                 │  mysql   │               │
-│                 │  :3306   │               │
-│                 └──────────┘               │
-│                                            │
-│  ┌──────────┐                              │
-│  │phpmyadmin│ :8080                        │
-│  └──────────┘                              │
-└────────────────────────────────────────────┘
-- - 🚀 Fullstack Web Developer 
-- 🌍 Based in Vietnam win 
-- 🧠 Learning Backend Architecture & AI Integration
-- ⚡ Passionate about Web Development & AI
-- 🔥 Building Real-world Systems
-- 🎯 Goal: Become a Professional Fullstack Engineer
 
 
 ```
